@@ -7,8 +7,8 @@ public class Main {
 
         int bonus;
 
-        if (DepositAccount > 2000) {
-            bonus = DepositAccount / 200; //формула подсчета бонусных рблей, за каждую внесенную 1000 рублей
+        if (DepositAccount > 1000) {
+            bonus = DepositAccount / 100; //формула подсчета бонусных рблей, за каждую внесенную 1000 рублей
         } else {
             bonus = 1;
         }
