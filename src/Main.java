@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         int score = 200; // стоимость билета
-        int DepositAccount = 4000; // депозитный счет клиента
+        int depositAccount = 4000; // депозитный счет клиента
 
         int bonus;
 
